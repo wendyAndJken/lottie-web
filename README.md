@@ -306,3 +306,6 @@ my email is **hernantorrisi@gmail.com**
 
 ## Issues
 - For missing mask in Safari browser, please anim.setLocationHref(locationHref) before animation is generated. It usually caused by usage of base tag in html. (see above for description of setLocationHref)
+
+#借鉴文档
+-http://test.imweb.io/topic/5b23a850d4c96b9b1b4c4efe
